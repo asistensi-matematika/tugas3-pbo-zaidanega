@@ -1,8 +1,8 @@
 # TUGAS 3 ASISTENSI PBO - Jumat, 4 Oktober 2019
 
-NAMA: `isi nama disini`
+NAMA: MUHAMMAD ZAIDAN EGARALINSYAH SETIAWAN
 
-NRP: `isi nrp disini`
+NRP: 06111840000066
 
 ## Deskripsi Soal
 Buat class **LinearEquation** untuk sistem persamaan linear 2x2:
@@ -51,7 +51,14 @@ soal opsional, tapi selesaikan semua soal di atas terlebih dahulu
 ![](/img/3.png)
 
 ## Screenshot hasil
-masukkan screenshot output disini
+SOAL 1
+
+![SOAL1](https://user-images.githubusercontent.com/55585415/66630042-980a3500-ec2d-11e9-9524-d8cd61ba5c16.jpg)
+
+SOAL 2
+
+![SOAL2](https://user-images.githubusercontent.com/55585415/66630043-98a2cb80-ec2d-11e9-8c3d-697df7d98b99.jpg)
+
 
 ## Upload
 upload seluruh folder project java-nya ke repository ini
